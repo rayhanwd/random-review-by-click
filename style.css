@@ -1,0 +1,44 @@
+
+.card{
+    max-width: 40%;
+    width: 100%;
+    display:table;
+    margin:0 auto;
+    font-variant: all-small-caps;
+    font-family: sans-serif;
+    background-color: aquamarine;
+    margin-top: 12%;
+    border-radius: 10px;
+    box-shadow: rgba(0,0,0,0.58);
+}
+
+.card-body{
+    text-align: center;
+}
+
+.btn a {
+    text-decoration: none;
+    border: 2px solid darkblue;
+    padding: 10px 20px;
+    display: table;
+    margin: 0 auto;
+    margin-top: 40px;
+    color: black;
+}
+
+.footer-content{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+ .icon svg {
+    width: 22px;
+}
+.margin-20{   
+    margin: 20px;
+} 
+.margin-36{
+   text-align:justify;
+    margin: 36px 20px 20px 20px;
+}
